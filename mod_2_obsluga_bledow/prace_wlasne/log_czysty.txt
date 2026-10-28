@@ -1,0 +1,5 @@
+OK: rozgrzewka
+WARN: mało wody
+OK: interwał x8
+WARN: spadek tempa
+OK: stretching
