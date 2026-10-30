@@ -1,3 +1,10 @@
+# zadanie:
+# Masz listę wpisów z treningu (komórka poniżej). Każdy wpis to napis.
+#1. Zostaw **tylko** linie, które zaczynają się od `"OK:"` albo `"WARN:"` (pętla + `if`).
+#2. Zapisz przefiltrowane linie do `prace_wlasne/log_czysty.txt` (każda linia w osobnym wierszu).
+#3. Policz, ile było `OK` i ile `WARN`, wypisz podsumowanie.
+#4. Odczytaj zapisany plik i wypisz liczbę linii w pliku.
+
 from pathlib import Path
 
 logi = [
