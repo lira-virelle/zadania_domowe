@@ -1,0 +1,47 @@
+[
+  {
+    "nick": "Ola",
+    "punkty": [
+      10,
+      8,
+      9
+    ],
+    "klasa": "1A"
+  },
+  {
+    "nick": "Kuba",
+    "punkty": [
+      7,
+      7,
+      6
+    ],
+    "klasa": "1B"
+  },
+  {
+    "nick": "Maja",
+    "punkty": [
+      10,
+      10,
+      9
+    ],
+    "klasa": "1A"
+  },
+  {
+    "nick": "Piotr",
+    "punkty": [
+      5,
+      6,
+      4
+    ],
+    "klasa": "1B"
+  },
+  {
+    "nick": "Ania",
+    "punkty": [
+      9,
+      8,
+      10
+    ],
+    "klasa": "1A"
+  }
+]
